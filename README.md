@@ -2,7 +2,9 @@
  
 ```shell
 git add *
+
 git commit -m "зробив структуру і добавив README.md"
+
 git push
 ```
 
